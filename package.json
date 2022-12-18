@@ -27,17 +27,17 @@
     "@babel/code-frame": "^7.0.0",
     "jest-worker": "^24.0.0",
     "serialize-javascript": "^2.1.2",
-    "uglify-js": "^3.4.9"
+    "uglify-js": "^3.17.4"
   },
   "peerDependencies": {
-    "rollup": ">=0.66.0 <2"
+    "rollup": ">=0.66.0 <3"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
-    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-env": "^7.3.4",
     "babel-jest": "^24.0.0",
     "jest": "^24.0.0",
     "prettier": "^1.16.1",
-    "rollup": "^1.27.10"
+    "rollup": "^2.79.1"
   }
 }
